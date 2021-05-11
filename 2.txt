@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-branch 2.txt
-=======
-222nishiwodehaopengyou
->>>>>>> master
+master222nishiwodehaopengyou
