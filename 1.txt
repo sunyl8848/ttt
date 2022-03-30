@@ -1,3 +1,4 @@
 mastertest_maste_1r_branch1_2
 add_another_line
 max_1_x
+new_line
