@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-mastertest1
-=======
-master_branch1
->>>>>>> master_branch1
+mastertest_master
